@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CatQuiz</string>
+    <string name="correct_toast">True</string>
+    <string name="incorrect_toast">False</string>
+    <string name="question_1">Азия является родиной домашней кошки?</string>
+    <string name="question_2">На знамени Спартака была изображена бронзовая кошка?</string>
+    <string name="question_3">В Китае самая большая «плотность кошачьего населения»?</string>
+    <string name="question_4">Любимого кота Виктора Гюго звали Крендель?</string>
+    <string name="question_5">Автором выражения: «Быстро только кошки плодятся» является Остап Бендер?</string>
+    <string-array name="answers">
+        <item>Африка является родиной домашней кошки</item>
+        <item>Действительно, на знамени Спартака была кошка</item>
+        <item>В Австралии. На десять жителей приходится девять кошек</item>
+        <item>Любимого кота звали Гаврош</item>
+        <item>Остап произносит эту фразу в романе «Двенадцать стульев»</item>
+    </string-array>
+</resources>
